@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c9d7faa-1196-444d-8b96-1ae928afc0c1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/amazon_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/b4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/g1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/g2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/g3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/g4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/hero_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/j1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/j2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/j3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/j4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/n1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/n2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/n3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/n4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/n5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/n6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/n7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/n8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/p1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/r1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/r2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/images/r3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon-Clone/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/config/multerconfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/middlewares/admin-middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/middlewares/localuser-middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/middlewares/site-middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/models/cart.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/models/categories.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/models/order.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/models/products.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/models/user.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/AdminPanel/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/AdminPanel/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/NewStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/AC-1.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/AC-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/AC-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/AC-3.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/AC-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/AC-4.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/AC-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/AC-5.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/AC-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/AC-6.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/AC-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Black_Search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/MTM.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Messanger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Navy-Strip-2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Navy.stripe.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Premium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Secure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Shirt-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Shirt-3.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Shirt-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Shirt-4.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Shirt-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Shirt-5.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Shirt-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Shirt-6.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Shirt-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Shirt2.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Truck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/WC-1.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/WC-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/WC-2.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/WC-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/WC-3.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/WC-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/WC-4.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/WC-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/WC-5.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/WC-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/WC-6.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/WC-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/Whatsap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/ceremonial.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/display-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/display-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/display-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/display-img-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/download.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/home_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/ht_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/insta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/logo_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/mob-dis-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/mob-dis-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/mob-dis-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/mob-dis-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/nob-dis-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/search-wht.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/section-B-1.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/section-B-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/section-B-2.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/section-B-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/section-B-3.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/section-B-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/section-B-4.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/section-B-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/section-img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/images/uniblack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/bootstrap-work/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/01bcce9b7562a59c52b31e46.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/0c953979f425721827d428f4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/0f3eb8de876f2c8d3e3dc145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/20d6e391f6b8ca2fc02d8fbc.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/2d65d23069221f176d34c9f1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/33e372a0045bc4c183cb4aaa.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/406a86b3005c2ae634e604d4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/40d8bfb22f64be65dc61ed26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/5020daeb6fb6877e1ac3ac98.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/53dac015b6caa7d8d25f64d5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/5e35f9cc5ea13c854a622b8b.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/72f4faa12993d03adb9939b9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/75e0b4d4f5e6c59a79bb4042.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/7a2c8193762539f1f3d3a7af.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/7ec8843e7ec5f00a734edbeb.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/865971119cc4981dd24e6d9d.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/87f3745b5599a368a7995433.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/8da045b3a262580c9103113b.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/9a785fcf22148403169b4cca.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/9f0f3793fa10dd79459763ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/a4d85639e3348c63486319a2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/ba27809199ac9bd885379b36.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/ce56ae74750a8f610c040a46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/cea4702bc0e1a11bdd0fa2ee.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/d0352391db8d7c9f197975f9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/d1291465311c91bac22b4b3f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/d86aa5e75039c21013841966.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/e5532c94d0557919cb916606.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/public/images/e974093c648ae8578a95594c.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/routes/admin.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/routes/admin/Mainpage.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/routes/admin/categories.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/routes/admin/products.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/routes/admin/seeorder.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/routes/cart.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/routes/order.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/routes/userRoutes/user.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/MainPage/bootstrap.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/MainPage/cart.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/MainPage/checkout.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/MainPage/orderConfirmation.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/MainPage/productDetails.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/MainPage/products.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/Register/login-register.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/admin-panel.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/admin/categories/categories-add.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/admin/categories/categories-edit.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/admin/categories/categories-read.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/admin/orders/order-read.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/admin/products/product-add.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/admin/products/product-edit.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/admin/products/product-read.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/layout.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/partials/navbar.web.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uniworth-Clone/views/partials/sidebar.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/config/multerconfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/data/doctors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/data/symptom.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/importDoctors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/importSymptoms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/middlewares/admin-middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/middlewares/fetchUserInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/middlewares/localuser-middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/middlewares/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/middlewares/verifyuser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/models/BodyPart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/models/Doctors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/models/Medicine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/models/Symptom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/models/SymptomDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/models/User-Things/BasicInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/models/User-Things/feedback.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/models/User-Things/health.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/models/User/Posts.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/models/User/UserSymptom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/models/User/user.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/animations.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/homecss.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/039c14af46a80aeca8d80171.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/04983beba9619d786b5d3dec.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/06b875330fa21642c4323c48.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/081cd4232e119232ed542c44.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/0be2113fef51f8a492faa48b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/0fff3844f4e46c72d40900b7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/10525e6a5019e6edb3e89caa.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/16d7b7b649d2f5c34ef297be.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/179dc1ebfd28d553364d20a0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/1920368768aacc2fa3286b0a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/19bc8aaa36033a02364cbe82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/1add.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/1df938c0a6e602a247012e84.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/2110db5e81025fc572a8b6a9.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/2351657453e7a787eae433b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/2455e61e3ea30ddf5f85d7d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/272e0adec27b689d304b452b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/277a0198e5226e7a84d28620.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/28fdafcc81f6b3278cd13d87.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/29c10fd782331a291873273e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/2a9477e8eaaa42a2a583e575.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/2aaf45a109101d67d1215c9f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/2add.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/2afa8a4d73226155a71d28d2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/2cbc985f25b0f346e5e29da3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/2d4e137a6996dbaa65e1b0f9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/324524972bd3bcad8358d1e0.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/32f4d7f30d05a7ef80525b83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/364f98328c0b7f4806836cdb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/3c25dbc1c278866d74deefc4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/3ea0a0a9c702fb6b32f4e9e0.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/400be964121a9019f788ff20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/429fe4aa56fc22c10870b656.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/47819f8161936431e0baf6a7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/4df75358c0e55ae7d4d65d80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/5212481ed5802b905c5d14fd.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/55083d620e4a6629467dfaa1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/578f80dde207626a138c33e5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/59d321faa64f8a941fed90f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/5a1f3bca4a1a0d1c8184d6fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/5a5d71e2b46277ffdfc0794c.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/5dfa336d3d178baf9f9f8843.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/610e858e1ef4968e0b647a25.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/64f7f08795e7049782983c85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/65167c4429be31a01ba689a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/66951f18bfcd393575b551ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/67581662b1563251b1f2a160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/6766ccc8f9e18d124cfc8dd7.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/69817ef398af19cb840a44d8.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/6b9930c5dd6ef1c8f5884d33.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/6c6d252d936150e5937f735e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/70017b825d5fc6c8d9f9fce3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/72864ff28524ac16a6cdec8d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/729513b41a4ba87cc19975a1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/72d11ae1fc554352a21e388e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/72ee0158dc972192c5453ce7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/73c5439078785ce309e961c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/75c01541fec6b50b0af27c3e.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/7db59a2b0d1dfec71b6b992b.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/85d7fd3d5d1a20586a177c23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/86277f4d753443802282e009.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/8849579bb0246a4391ee3304.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/884d7b8adba4feb7fa2f7ed4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/88e8a1037561bc460cb3482d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/8c248b398b7ce9e1d5239517.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/8e77a761ce916622fa0bdc5e.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/9127bb4a03aee474faa6b175.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/920d6c4e68adb671752e783b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/93644f5ee7e8f8b150275691.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/942672986a271f03f8e7e2cb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/9451ec48271d2f1895f6cd73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/9653ae9b4c430e9be6b7e834.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/976e69615c123a94324fbe3e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/9afdbc3fa30a101c8bf78ed3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/9c86bc4f654897e776519a1a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/9d0e4ca32a7574e86396046e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/9e22ead2196473a966b2d640.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/9ef54bf56ff29cb26f91674c.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/9f6449d0865ea17de9ce0f9e.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/WhatsApp Image 2024-12-21 at 7.53.48 PM.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/WhatsApp Image 2024-12-21 at 7.53.49 PM.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/WhatsApp Image 2024-12-23 at 3.52.34 AM.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/a0454fc9076da1d4bcd1808b.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/a15169b9ff03e73d4fa4e87f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/a1779387cbc37f16dd407dc2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/a2f63aed0578f4c2733c0799.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/a545548997192fce0f2ea233.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/a6fba41e53add452a53c2d7b.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/a87834f451a71abe79df1dfc.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/aaaa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/ab.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/about-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/aboutus1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/aboutus2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/ac.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/ac21da4ccbd65945ab02c13d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/ad.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/ad02758669926285eab55cf5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/ad8e94ffb0e27889cceca40d.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/ae9d5af295a815c726f1fed7.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/af672c7e0b4e625b78776e66.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/b02821bcee727ae692941e6a.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/b13ce44ba702f3527a0d08a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/b155b8cbe91203b43c3f3e45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/b34744adc19a0f1b5b9fe623.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/b34a6495130ce7c04ac05fff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/b6ba213c0913cdb844edf0ea.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/ba9b29c97cb342e5e4cfd894.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/background-main-doc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/bd8097fcf2a4440ad5a8c6e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/bg-doctor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/bg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/blockqoute-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/c035f4e3ccd2f82e9996a13b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/c0a0ba790a38673dcfa75695.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/c0c8b3d6d08f7814cbffef6b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/c14678be95a6069ea79d1175.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/c2446a8bb09959f80a407f42.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/c5173929cee5fe1a6adc6237.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/c590782da7a1b06c7c3b71ab.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/c6b6e6ea9b01079f0f878674.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/c6ce86eb46d4c86b3b3ec9c1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/c75f63837dabd6457cb60642.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/ca2d925c5647399ff2de4fb6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/caa4c571b3b5893c6085b552.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/cee22a8d3d8b11b80bd2c23a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/cff3bbe529ad4ac56b348b87.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/d0b42fb9b98c5fa1a2cc9892.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/d13acd61653bc2e94e0ec97a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/d413588e66cf5d8a1a67c472.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/d517b046b5803f74bbd5e418.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/d5ffa1d1f19633a5b437435e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/dae11d836f9b995efefbe64b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/db7820f42538a62b54abfcde.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/dc64f5b271f3861742c49cfd.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/ddd87ae47f05c5b626ff8488.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/default-final.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/dfae4059302a339ed800cb56.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/doc2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/doc2pic.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/doc3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/doc4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/doc5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/docpic1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/doctor123.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/e0846ba38bdf88e338f7a386.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/e2b8f8f5a1e91d39717e84c4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/e53c734dfbe18e6565d68fa1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/e72b3aad0258949842542a86.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/eb115001f4e7daff8ffc673e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/ecaafef3421e345af74f8067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/ed8caebef3fe64a554e40996.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/ee07cc3aba2774f921fbe8c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/f2115886c46f1a35ff2904d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/f5fb3ab9cb878d6fcb6ca355.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/f69b5e8b520fedff5e4fef8d.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/f6a9836b91a7d7a4fffaf1ad.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/f8d1d3222fa1848e78686b0d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/f9b8f08fc4326437c431e909.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/f9ddde3a6ec5373b2fd8bf2f.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/fa773c38fbb3186935878f66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/fadb0342d8aca0ea9ece8341.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/fdae77b17f6f97207adbd849.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/fdff48d76f0b226023dfd851.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/file.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/hero-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/pic3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/preventive-coronavirus-vaccine-bottles-composition.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/s1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/s11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/s2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/s3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/secure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/securee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/slider-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/slider-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/ss.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/sss.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/team-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/team-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/team-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/team-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/track-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/trust.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/w1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/w2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/w3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/images/w4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/public/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/Admin-panel-routes/bodyPartRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/Admin-panel-routes/doctorsRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/Admin-panel-routes/homeRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/Admin-panel-routes/medicine.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/Admin-panel-routes/reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/Admin-panel-routes/symptomDetailRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/Admin-panel-routes/symptomRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/SymptomsChecker.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/User-DashBoard-routes/feedback.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/User-DashBoard-routes/user-report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/User-DashBoard-routes/userdb.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/about.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/doctorListRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/posts-routes/post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/routes/userRoutes/user.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/utils/mailer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/utils/passwordchange.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/utils/sendSuspensionEmail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/BodyPart/BodyParts-read.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/BodyPart/addBodyPart.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/BodyPart/editBodyPart.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/Doctors/DoctorList.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/Doctors/addDoctor.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/Doctors/editDoctor.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/Medicines/Medicine-read.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/Medicines/addMedicine.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/Medicines/editMedicine.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/Symptom/Symptom-read.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/Symptom/addSymptom.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/Symptom/editSymptom.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/SymptomDetails/SymptomDetail-read.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/SymptomDetails/addSymptomDetail.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/SymptomDetails/editSymptomDetail.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/Users.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/admin.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/adminreport.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/displayfeedback.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/home.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Admin-panel/seeAppointments.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/MainPage.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Register/login-register.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/Register/verify-email.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/UserDashboard/dashboard.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/UserDashboard/givefeedback.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/UserDashboard/input.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/UserDashboard/u.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/UserDashboard/view-report.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/UserRead.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/aboutUs.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/findDoctors.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/layout.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/partials/navbar.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/partials/sidebar.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vibe-Guard (Personal Health Care Assistant))/views/profile.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/kotlin/com/example/project/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/wallet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/devtools_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-50x50@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-50x50@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-57x57@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-57x57@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-72x72@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-72x72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/AccountDetailsPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/AddMoneyScreen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/BudgetOverview.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/CalculatorPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/CurrencySelectionScreen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/FingerprintAuthService.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ForgotPasswordPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/HomePage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/LoadingScreen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/LoginPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SavingDeatilsPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SignUpPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ThemeProvider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Verify.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/aboutUsPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/account.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/add_expense_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/add_income_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bottom_nav_home.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/chat_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/currency_rates_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/donation_goals_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/faqPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feedbackPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/home_loader.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/report/report_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/report/stats.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/monthly_budget_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/notes_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/onboarding_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/privacyPolicyPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/saving_goals_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/add_helper.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/expense.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/fingerprint_auth_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/notification_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/settings.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/shopping_list.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/shopping_list_details.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/splash_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/supportPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/termsPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/transaction_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/transfer_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/wrapper.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/runner/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/runner/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/runner/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/firebase-messaging-sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/win32_window.h" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2y6JVMxo3lKJmPMa6s3z28ujEix" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Flutterproject/Expenso-SP23-BSE-079-070-018/Expenso",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Flutterproject\project_8\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c9d7faa-1196-444d-8b96-1ae928afc0c1" name="Changes" comment="" />
+      <created>1749149114016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749149114016</updated>
+    </task>
+    <servers />
+  </component>
+</project>
